@@ -1,0 +1,29 @@
+C:\Users\HamidS\source\repos\University_Project\University_Project\bin\Debug\University_Project.exe.config
+C:\Users\HamidS\source\repos\University_Project\University_Project\bin\Debug\University_Project.exe
+C:\Users\HamidS\source\repos\University_Project\University_Project\bin\Debug\University_Project.pdb
+C:\Users\HamidS\source\repos\University_Project\University_Project\obj\Debug\University_Project.csprojResolveAssemblyReference.cache
+C:\Users\HamidS\source\repos\University_Project\University_Project\obj\Debug\University_Project.Properties.Resources.resources
+C:\Users\HamidS\source\repos\University_Project\University_Project\obj\Debug\University_Project.csproj.GenerateResource.Cache
+C:\Users\HamidS\source\repos\University_Project\University_Project\obj\Debug\University_Project.csproj.CoreCompileInputs.cache
+C:\Users\HamidS\source\repos\University_Project\University_Project\obj\Debug\University_Project.exe
+C:\Users\HamidS\source\repos\University_Project\University_Project\obj\Debug\University_Project.pdb
+C:\Users\HamidS\source\repos\University_Project\University_Project\obj\Debug\University_Project.Login_Layer.resources
+C:\Users\HamidS\source\repos\University_Project\University_Project\obj\Debug\University_Project.SignUp_Frm.resources
+C:\Users\HamidS\source\repos\University_Project\University_Project\obj\Debug\University_Project.Student_MainFrm.resources
+C:\Users\HamidS\source\repos\University_Project\University_Project\obj\Debug\University_Project.forgot_frm.resources
+D:\Projects\NEW University\University_Project\University_Project\bin\Debug\University_Project.exe.config
+D:\Projects\NEW University\University_Project\University_Project\bin\Debug\University_Project.exe
+D:\Projects\NEW University\University_Project\University_Project\bin\Debug\University_Project.pdb
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.csprojResolveAssemblyReference.cache
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.forgot_frm.resources
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.Login_Layer.resources
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.Student_MainFrm.resources
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.Properties.Resources.resources
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.SignUp_Frm.resources
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.csproj.GenerateResource.Cache
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.csproj.CoreCompileInputs.cache
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.exe
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.pdb
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.Teacher_MainFrm.resources
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.Information_Frm.resources
+D:\Projects\NEW University\University_Project\University_Project\obj\Debug\University_Project.DorosEra_eShode.resources
